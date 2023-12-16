@@ -11,7 +11,7 @@ Experience the classic Rock, Paper, Scissors game in a digital format! This Pyth
 
 
 ## Installation
-1.Clone the repository:git clone https://github.com/your-username/rock-paper-scissors.git
+1.Clone the repository
 2.cd rock-paper-scissors
 3.Run the game:python main.py
 
